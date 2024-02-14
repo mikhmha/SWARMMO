@@ -7,14 +7,15 @@ A new type of free-to-play browser MMO! Featuring high player counts, dynamic AI
 
 
 
-Playtest: March 2024
-Release date: April 2024
+**Playtest**: March 2024
+
+**Release date**: April 2024
 
 Regions:
 
-NA WEST
-NA EAST
-EU WEST
+- NA WEST
+- NA EAST
+- EU WEST
 
 
 Unsupported browsers:
