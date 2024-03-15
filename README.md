@@ -9,9 +9,13 @@ Battle large groups of enemies with your fellow players and work together to pus
 
 
 
-**Playtest**: March 2024
+**Playtest**: ~~March 2024~~ April 2024
 
-**Release date**: April 2024
+**Release date**: ~~April 2024~~ May 2024
+
+** UPDATE ** : The release schedule has been delayed by 1 month! Hopefully its the only delay but who knows...
+Things are very close. I'm dealing with some challenging problems related to directed graphs, relational algebra, and topology. The final frontier~
+Once this part is done, the game will be ready to test and I can also start focusing on adding content. Soon (tm)
 
 Regions:
 
