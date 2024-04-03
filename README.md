@@ -17,6 +17,9 @@ Battle large groups of enemies with your fellow players and work together to pus
 Things are very close. I'm dealing with some challenging problems related to directed graphs, relational algebra, and topology. The final frontier~
 Once this part is done, the game will be ready to test and I can also start focusing on adding content. Soon (tm)
 
+** UPDATE 2 **: I'm in the final stretch! The hard problems are now solved :). Now whats left is to update the UI and add some additional client-side functionality. Also I need to debug some client-side animation issues. I really want to work with a 2D artist so I can start adding more content and give the game a more consistent art style. Small steps.
+Last month motivation was low. But I'm entering this month with much higher motivation. Gotta show up everyday and put in some work, only way to get through a slump. 
+
 Regions:
 
 - NA WEST
