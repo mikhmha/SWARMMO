@@ -24,6 +24,8 @@ Last month motivation was low. But I'm entering this month with much higher moti
 
 Also the map has been expanded by 2x  and feels quite big now. I don't know what the play-test player limit will be - 100 players? Theoretically 1000+ players can be supported but that will make the map too crowded and also I don't want to get hit by some crazy cloud bill *if* somehow I do get that many players - doubt it.  
 
+AND I implemented mandatory client time synchronization! It works really well. Whenever a player spawns into the world - they are invunerable for a period of 10 seconds and must exchange SYN packets with the server untill the server determines sufficient sync. Untill then, no other input is accepted by the server. This period is also used to calculate the average latency on the client-side using sampling and the midpoint method. I can also have it so the server can boot the client if the latency is too high or if the sync is not sufficient after 10 seconds. 
+
 Oh yeah also I quit smoking ciggarettes a month ago! So I'm 1-month smoke free. But I'll probably start again some time in June~ or maybe when I'm cash flow positive again. 
 
 Regions:
