@@ -44,3 +44,4 @@ Unsupported browsers:
 
 ![image_1](https://github.com/mikhmha/SWARMMO/assets/75456828/de69cda4-665a-4762-85eb-77221634d586)
 
+![game_2](https://github.com/mikhmha/SWARMMO/assets/75456828/dafca50b-538e-4e43-971b-48d3ac1ce8d8)
