@@ -26,7 +26,9 @@ Oh yeah also I quit smoking ciggarettes a month ago! So I'm 1-month smoke free. 
 
 
 
-**UPDATE 4** Made some really good breakthroughs this week. The AI is working amazingly! Understanding how the a.i works with the server has come in waves. But now I can conceptualize it all very well and it makes a ton of sense to me. I like making diagrams but only after the fact. So here is a diagram of my AI archiecture. Its taken a while to finalize this and lots of debugging + logging + experimentation. But it was worth it. The AI can be very extensive in the future - even control groups can create units with variants and different stats. Very exciting stuff. 
+**UPDATE 4** Made some really good breakthroughs this week. The AI is working amazingly! Understanding how the a.i works with the server has come in waves. But now I can conceptualize it all very well and it makes a ton of sense to me. I like making diagrams but only after the fact. So here is a diagram of my AI architecture. Its taken a while to finalize this and lots of debugging + performance profiling + experimentation. But it was worth it. The AI can be very extensive in the future - even control groups can create units with variants and different stats. Very exciting stuff. I don't know if people have tried this stuff in Elixir. But its not all good news. Unfortunately I started smoking again. I was doing so good. hahaha
+
+![Capture](https://github.com/mikhmha/SWARMMO/assets/75456828/cd6ea3bc-9fa1-490d-97c2-f2ed5e62500a)
 
 Regions:
 
