@@ -40,7 +40,6 @@ But now..its very interesting. These past few days I find myself actually playin
 So here is the remaining work left before I do the playtest. 
 
 1. **Notifications System**
-
 After a client connects to the server - they receive 2 types of updates. World State Updates (used for rendering) and **notifications**. Notifications are client-specific updates and NOT subject to interest management - whereas world state updates are. The notifications system is already in place - but what I need to do is add more notifications for certain events (spawn, stat changes, event join, event complete) AND implement message batching for notifications. Because most notifications are small in terms of data and it doesn't make sense to send each as an individual packet every tick.  Also these notification updates will tie in with the remaining UI work needed on the client-side. 
 
 2. **Finite-Domain Constraint Solver for AI Unit Generation** 
@@ -50,12 +49,12 @@ I got around to reading this paper on how to roll your own Finite-Domain Constra
 This is already in place, but I want to spend some time experimenting with the different steering behaviours - specifically Queueing behaviour and Leader Following. 
 
 4. **Game Client Shaders + Level Tweaks** 
-Well I want to have some fun with shaders on the client-side. I think I can do some cool stuff that will let me create AI distinct unit variations without having to do asset work. Also maybe some environment shaders like for the grass. And also since we have world-serlization in place now (for the server) I can add more obstructions into the game world and they will have server side collision! So more fences and walls and that type of stuff. Maybe even cliffs? 
+Well I want to have some fun with shaders on the client-side. I think I can do some cool stuff that will let me create AI distinct unit variations without having to do asset work. Also maybe some environment shaders for the grass and certain tiles. And also since we have world-serlization in place now (for the server) I can add more obstructions into the game world and they will have server side collision! So more fences and walls and that type of stuff. Maybe even cliffs? 
 
 5. **World Server Connection Queue** 
 This is all remaining work before deployment. Implementing some queue system to restrict the maximum allowed players because the map isn't big enough and I don't want to get hit with some expensive cloud bill. And this work will also tie in with the whole connection-auth-process. So its like the LAST (for real) thing before playtest. 
 
-When I write it down it seems like theres a lot left. SO maybe I'm underestimating the work left. But also I already know how I'm going to go about implementing all of the above into the existing systems. So not much "thinking" more coding and wrapping existing abstractions. OK I go back to work now. 
+When I write it down it seems like theres a lot left. SO maybe I'm underestimating the work left. But also I already know how I'm going to go about implementing all of the above into the existing systems. So not much "thinking" more coding and wrapping existing abstractions. OK I go back to work now. wish me luck. 
 
 
 
