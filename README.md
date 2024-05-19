@@ -63,6 +63,11 @@ When I write it down it seems like theres a lot left. SO maybe I'm underestimati
 
 OK - my previous update the remaining work listed there is now out of date! Because 2,3,4,5 are being tackled simultaneously right now. Its good to know when existing goals can be revised! Because the thing with this type of work is that the systens you've spent time building and testing are now giving you back BIG returns. Its a temporary force multiplier and you remember why you built them in the first place. So now the wave has come and you have to ride it. If you can get a lot of mileage out of these temporary boosts then it means you built (and designed) a good system. 
 
+BTW - I feel really confident in Godot now. I have a good handle on it and I know how it works under the hood.  I don't have to look up much things at all at this point and I don't have any superstitions in my workflows. When to use a scene, when to make scripts (write code), how to test with or without writing code, when to use signals, what plugins to use, how plugins work, when to preload and instantiate children, what is a scene, what are children? I know it all. And before i started this project i knew nothing. Godot is the shit. Its the best thing ever. If Godot has 0 fans, I'm dead 😫❌
+
+
+
+
 I got a dilemma now actually. Because I can start posting some screenshots and videos cuz now im satisfied AND the game looks QUITE different now in a very good way (it looks LEGIT). So should I continue from here by using a psdueonym and posting on relevant online nerd spaces? Because if I catch attention then I don't want to be linked to my real id. 
 
 BUT its a gamble. Because its all up to chance if your game gets attention (though not completely). And you might get a lot of interest for a day or whatever and then things fizzle out. SO you want to time when you post that sort of stuff. Ideally when you have something to actually try. Sometimes you "blow your load" (crude) too early by getting 1k upvotes for a screenshot from your dev build on some game subreddit. And then release time no one really cares. EH can't blame them - I've done this same thing exactly. If you have something to try then atleast players can try it and tell you if it sucks. If it sucks ATLEAST you tried it. I won you consumed my product. So the jokes on you. 
