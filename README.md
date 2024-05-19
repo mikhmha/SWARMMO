@@ -44,16 +44,16 @@ After a client connects to the server - they receive 2 types of updates. World S
 
 UPDATE: OK I finished the work on this. It was good to finally tackle this. Finishing it allows me to debug server events much easier on the client-side now. And in godot i implemented a very straight forward ui "card" element that is displayed on the player hud. this sort of UI work is so easy in godot. Events with multiple participants and turns have their notifications delta encoded - world entity id's are encoded as relative indexes so a notification encoding an interaction between 2 entities goes from minimuim 8 bytes to 2 bytes. All notifications generated for a client during a tick process are batched and sent as one packet to the client. The batched notifications are in the order of "processing" insertion, and its up to the client on what to do with the notification - render it as a ui element on hud, display some text, etc. 
 
-2. **Finite-Domain Constraint Solver for AI Unit Generation** 
+~!2. **Finite-Domain Constraint Solver for AI Unit Generation**~ (SEE UPDATE 6)
 I got around to reading this paper on how to roll your own Finite-Domain Constraint Solver. Very interesting stuff. This will be used in the AI Subsystem to generate/spawn AI control groups with random attributes that conform to the constraints specified. So it will make things very interesting gameplay wise. The constraints will be things like unit stat allocations, unit graphic variations, unit "role" variations (X leaders and Y followers), etc. I'm not going to go overboard with the constraints initially, I think even keeping things simple will yield lots of interesting results. 
 
-3. **AI Unit Steering Behaviours** 
+~3. **AI Unit Steering Behaviours**~ (SEE UPDATE 6)
 This is already in place, but I want to spend some time experimenting with the different steering behaviours - specifically Queueing behaviour and Leader Following. 
 
-4. **Game Client Shaders + Level Tweaks** 
+~4. **Game Client Shaders + Level Tweaks**~ (SEE UPDATE 6)
 Well I want to have some fun with shaders on the client-side. I think I can do some cool stuff that will let me create AI distinct unit variations without having to do asset work. Also maybe some environment shaders for the grass and certain tiles. And also since we have world-serlization in place now (for the server) I can add more obstructions into the game world and they will have server side collision! So more fences and walls and that type of stuff. Maybe even cliffs? 
 
-5. **World Server Connection Queue** 
+~5. **World Server Connection Queue**~  (SEE UPDATE 6)
 This is all remaining work before deployment. Implementing some queue system to restrict the maximum allowed players because the map isn't big enough and I don't want to get hit with some expensive cloud bill. And this work will also tie in with the whole connection-auth-process. So its like the LAST (for real) thing before playtest. 
 
 When I write it down it seems like theres a lot left. SO maybe I'm underestimating the work left. But also I already know how I'm going to go about implementing all of the above into the existing systems. So not much "thinking" more coding and wrapping existing abstractions. OK I go back to work now. wish me luck. 
@@ -63,7 +63,7 @@ When I write it down it seems like theres a lot left. SO maybe I'm underestimati
 
 OK - my previous update the remaining work listed there is now out of date! Because 2,3,4,5 are being tackled simultaneously right now. Its good to know when existing goals can be revised! Because the thing with this type of work is that the systens you've spent time building and testing are now giving you back BIG returns. Its a temporary force multiplier and you remember why you built them in the first place. So now the wave has come and you have to ride it. If you can get a lot of mileage out of these temporary boosts then it means you built (and designed) a good system. 
 
-I got a dilemma now actually. Because I can start posting some screenshots and videos cuz now im satisfied BUT the game looks QUITE different in a very good way(it looks LEGIT). So should I continue from here by using a psdueonym and posting on relevant online nerd spaces? Because if I catch attention then I don't want to be linked to my real id. 
+I got a dilemma now actually. Because I can start posting some screenshots and videos cuz now im satisfied AND the game looks QUITE different now in a very good way (it looks LEGIT). So should I continue from here by using a psdueonym and posting on relevant online nerd spaces? Because if I catch attention then I don't want to be linked to my real id. 
 
 BUT its a gamble. Because its all up to chance if your game gets attention (though not completely). And you might get a lot of interest for a day or whatever and then things fizzle out. SO you want to time when you post that sort of stuff. Ideally when you have something to actually try. Sometimes you "blow your load" (crude) too early by getting 1k upvotes for a screenshot from your dev build on some game subreddit. And then release time no one really cares. EH can't blame them - I've done this same thing exactly. If you have something to try then atleast players can try it and tell you if it sucks. If it sucks ATLEAST you tried it. I won you consumed my product. So the jokes on you. 
 
