@@ -59,6 +59,21 @@ This is all remaining work before deployment. Implementing some queue system to 
 When I write it down it seems like theres a lot left. SO maybe I'm underestimating the work left. But also I already know how I'm going to go about implementing all of the above into the existing systems. So not much "thinking" more coding and wrapping existing abstractions. OK I go back to work now. wish me luck. 
 
 
+** UPDATE 6 **: 
+
+OK - my previous update the remaining work listed there is now out of date! Because 2,3,4,5 are being tackled simultaneously right now. Its good to know when existing goals can be revised! Because the thing with this type of work is that the systens you've spent time building and testing are now giving you back BIG returns. Its a temporary force multiplier and you remember why you built them in the first place. So now the wave has come and you have to ride it. If you can get a lot of mileage out of these temporary boosts then it means you built (and designed) a good system. 
+
+I got a dilemma now actually. Because I can start posting some screenshots and videos cuz now im satisfied BUT the game looks QUITE different in a very good way(it looks LEGIT). So should I continue from here by using a psdueonym and posting on relevant online nerd spaces? Because if I catch attention then I don't want to be linked to my real id. 
+
+BUT its a gamble. Because its all up to chance if your game gets attention (though not completely). And you might get a lot of interest for a day or whatever and then things fizzle out. SO you want to time when you post that sort of stuff. Ideally when you have something to actually try. Sometimes you "blow your load" (crude) too early by getting 1k upvotes for a screenshot from your dev build on some game subreddit. And then release time no one really cares. EH can't blame them - I've done this same thing exactly. If you have something to try then atleast players can try it and tell you if it sucks. If it sucks ATLEAST you tried it. I won you consumed my product. So the jokes on you. 
+
+A certain guarantee (nothing is guaranteed) is IF:  when the game is ready to play (2 more weeks^2 more weeks) I post it on HN as a Show HN post at the right hours than I could get some buzz. Usually show hn posts that are interactive get 50 votes (all i'd want). The internet has lots of lurkers. I'm also confident because my HN account is in good standing - idk if the site actually does it but I also bet it does - because its like 90% affected by your account creation date. Otherwise your posts get downranked and weighed more heavily as spam. So I don't want to do it from a new "throwaway" HN account. 
+
+HOWEVER, posting from my HN account gets me doxed. BUT its a good thing because the people that doxx you from that site are cool and can offer you jobs! So I do want to be doxxed from HN - no issues there. BUT then what IF the game gets a lot of buzz from players (i want that more than a job tbh) well now you can get doxxed by them via your HN post. I want players... I don't want players! No I want players for sure - thats way more motivating. 
+
+
+So you see my dilemma? All these BUTS and IFS are no good.  
+
 
 
 Regions:
