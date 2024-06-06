@@ -59,7 +59,7 @@ This is all remaining work before deployment. Implementing some queue system to 
 When I write it down it seems like theres a lot left. SO maybe I'm underestimating the work left. But also I already know how I'm going to go about implementing all of the above into the existing systems. So not much "thinking" more coding and wrapping existing abstractions. OK I go back to work now. wish me luck. 
 
 
-** UPDATE 6 **: 
+**UPDATE 6**: 
 
 OK - my previous update the remaining work listed there is now out of date! Because 2,3,4,5 are being tackled simultaneously right now. Its good to know when existing goals can be revised! Because the thing with this type of work is that the systens you've spent time building and testing are now giving you back BIG returns. Its a temporary force multiplier and you remember why you built them in the first place. So now the wave has come and you have to ride it. If you can get a lot of mileage out of these temporary boosts then it means you built (and designed) a good system. 
 
@@ -79,6 +79,9 @@ HOWEVER, posting from my HN account gets me doxed. BUT its a good thing because 
 
 So you see my dilemma? All these BUTS and IFS are no good.  
 
+**UPDATE 7**
+
+I'm at peak motivation right now. Things are going VERY well. The game looks and plays COMPLETELY different now. All the screenshots posted to date are VOID at this point. It will be fun to look back at them and see how everything evolved. I'm close to dropping a gameplay snippet - just a bit more work on my end. Ahh I'm so excited. Because I didn't imagine the game would look or play how it does at the current stage . And overall this project has gone so smoothly - I make goals on a week-by-week basis - I reach those goals or wrap the goals into bigger milestones - I get time to test new systems independantly, and I move forward week by week. I haven't had to fight any of the tools I'm using or spend days debugging some issue with them. Everything I use fits in to my workflow. And I have workflows for the backend, front-end, asset creation, map creation. 
 
 
 Regions:
