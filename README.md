@@ -1,6 +1,6 @@
 # SWARMMO
 
-A new type of free-to-play browser MMO! Featuring high player counts, dynamic AI enemies, and fast-paced combat. 
+A new type of free-to-play browser MMO! Featuring high player counts, dynamic AI enemies, fast-pased combat, and a beautiful modern 2D isometric art style!
 
 Battle large groups of enemies with your fellow players and work together to push-back the goblin clans who roam the world seeking to gain new territory and expand their numbers. 
 
