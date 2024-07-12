@@ -10,6 +10,7 @@ Battle large groups of enemies with your fellow players and work together to pus
 
 **TRAILER**: Its being made...
 
+![Image-203](https://github.com/user-attachments/assets/fcbaf0f7-1f41-4417-9237-0d75fe54ae62)
 
 
 Regions:
