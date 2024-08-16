@@ -16,6 +16,8 @@ Battle large groups of enemies with your fellow players and work together to pus
 
 ![game_1](https://github.com/user-attachments/assets/1da3106d-30a3-4a10-9d34-707034950709)
 
+![game_3](https://github.com/user-attachments/assets/be1eed0f-d497-46a3-a7dd-7eaef591ae68)
+
 Regions:
 
 - NA 
