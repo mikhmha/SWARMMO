@@ -12,10 +12,8 @@ Battle large groups of enemies with your fellow players and work together to pus
 
 ![Image-203](https://github.com/user-attachments/assets/fcbaf0f7-1f41-4417-9237-0d75fe54ae62)
 
-![combat_bug_NEW](https://github.com/user-attachments/assets/dcad70dc-56ba-4af7-80ff-0851955e27e3)
+![game_2](https://github.com/user-attachments/assets/865de44a-33bc-4a46-b0c8-adee222db2ec)
 
-
-![game_war-450](https://github.com/user-attachments/assets/c5808c1d-cd15-4869-881a-3f7f23b069bd)
 
 Regions:
 
