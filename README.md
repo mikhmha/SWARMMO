@@ -18,6 +18,7 @@ Make your character stronger by completing quests to gain loot and experience.
 ![game_1](https://github.com/user-attachments/assets/1da3106d-30a3-4a10-9d34-707034950709)
 
 ![game_3](https://github.com/user-attachments/assets/be1eed0f-d497-46a3-a7dd-7eaef591ae68)
+![game_inventory](https://github.com/user-attachments/assets/07ebf85b-6d7d-4883-8dcb-a65cad2377e2)
 
 Regions:
 
