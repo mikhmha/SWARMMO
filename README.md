@@ -17,9 +17,9 @@ Game is so close. Now im implementing the matchmaking system. You take the game 
 ALSO THE WORLD DESIGN will end up changing heavily and better reflective of the partitioning scheme. There is a visual element to it. But will the level design changes happen before launch, after launch, etc? The problem is I LOVE making the map its so fun. Its like painting. But thats the problem. ITS TOO FUN. Hours pass by. And then nothing on the coding side gets done. So I live with whatever the hell the map is right now.  I WANT MORE TREES AND GRASS. There are "primary zones" 0-3 and "transitive zones" A-F. What is the disctinction, does it mean anything? I DONT KNOW YET but i know its legit. And sometimes you can cross between zones and sometimes you can't. But I don't know when. 
 
 
- 
+ [SEPT 12, 2024] 
 
-
+OMFG I've been procrastinating. Because this world spawn matching problem is so interesting and will make the game so fun and complete. I tend to procrastinate every few weeks (6-8?) for a week and then it passes. So this should pass too. I don't know if I start to write because things are good or if things are bad. IS it all a form of cope?  Maybe the summer ending is filling me with dread. Because I was so looking forward to it a few months ago but in the end it was just OK and last summer was way better. This summer I mostly worked on the game. Its not a bad thing, I had fun on the things I worked on. But also when I look back I go - wtf did I work on? Because every 2 weeks you go from "MY GAME IS AWESOME" to "MY GAME SUCKS NO ONE WILL PLAY IT" and its an eternal cycle. Last summer was fun because I was so care-free and spent a lot more time outdoors. This summer I've been working on the game and its like an all-day thing, not a clock out after 5pm thing. And then there is a great contradiction, because I was more care-free last summer but also way more miserable and unfullfilled internally. no regrets. In a few days we will be back on that MY GAME IS AWESOME grindset. and everything will wash away.
 
 
 ![Image-203](https://github.com/user-attachments/assets/fcbaf0f7-1f41-4417-9237-0d75fe54ae62)
