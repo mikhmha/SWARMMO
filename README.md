@@ -33,6 +33,9 @@ the decisions it makes will fall into the following: 1. Spawn in a new squad, 2:
 our AI is A* decision making all the way down. thats crazy. From spawning, to the individual unit action level. 
 
 
+**[Sept 16, 2024]**
+
+Yeah i always look back and realize i wrote some word vomit. Well atleast you know its not some ChatGPT generated writing. Ok after yesterday I really understood what I'm trying to do, then I crossed notes by reading into how Valve implemented the AI director system in Left 4 Dead. I actually never liked or played those games that much but i always found the director system interesting. I haven't played the games enough to really understand how the director  affects gameplay across all the maps and difficulty levels and game modes, etc. But thats not really the point. The publically available Valve technical slides on AI director implementation explain the underlying problem domain and how to represent it in perfect detail. Summary: Techniques to implement Procedurally Populated Environments. OK i'm done procrasting. So I won't write again for a while. No need!
 
 
 
