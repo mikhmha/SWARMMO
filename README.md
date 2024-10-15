@@ -7,7 +7,7 @@ Make your character stronger by completing quests to gain loot and experience.
 
 
 
-**Playtest**:  **VERY SOON**
+**Playtest**:  **Early December 2024** (NO MORE DELAYS!)
 
 **TRAILER**: Its being made...
 
