@@ -7,13 +7,13 @@ Make your character stronger by completing quests to gain loot and experience.
 
 
 
-**Playtest**:  **Early December 2024** (NO MORE DELAYS!)
+**Playtest**:  **March 2025** (GAME IS LIVE!)
 
-**TRAILER**: Its being made...
-
+**TRAILER**: VIEW IT ON OUR WEBSITE!
 
 
 **MAIN SITE:** https://swarmmo.games
+![KickStarterImg_1 2 2_2 1 1](https://github.com/user-attachments/assets/44a42cf9-647b-41ec-bc60-c1993f25a2a0)
 
 ![Image-203](https://github.com/user-attachments/assets/fcbaf0f7-1f41-4417-9237-0d75fe54ae62)
 
@@ -22,7 +22,7 @@ Make your character stronger by completing quests to gain loot and experience.
 ![game_1](https://github.com/user-attachments/assets/1da3106d-30a3-4a10-9d34-707034950709)
 
 ![game_3](https://github.com/user-attachments/assets/be1eed0f-d497-46a3-a7dd-7eaef591ae68)
-![game_inventory](https://github.com/user-attachments/assets/07ebf85b-6d7d-4883-8dcb-a65cad2377e2)
+
 
 Regions:
 
